@@ -16,7 +16,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Telegram Link : https://t.me/Illegal_Developer 
+Telegram Link : https://t.me/f7bots
 Repo Link : https://github.com/IllegalDeveloper/ILLEGAL-RENAME-BOT
 License Link : https://github.com/IllegalDeveloper/ILLEGAL-RENAME-BOT/blob/main/LICENSE
 """
